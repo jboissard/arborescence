@@ -1,0 +1,8 @@
+Arborescence - Tree Structure
+
+
+This code helps generate a tree structure from a single MySQL table.
+
+Features
+- unlimited levels
+- numbering at every level
